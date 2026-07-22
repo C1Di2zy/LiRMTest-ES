@@ -184,10 +184,8 @@ In the reported experiments, low temperature, strong light, backlight, and elect
 This repository is intended to provide:
 
 - source code for the seven metamorphic operators;
-- transformed point-cloud data or generation scripts;
-- model evaluation and retraining code;
 - raw experimental results;
-- configuration files used in the paper.
+
 
 The experiments are implemented on top of OpenPCDet and use the public KITTI dataset.
 
