@@ -213,9 +213,6 @@ Please cite the project as:
 @article{li2026lirmtestes,
   title   = {LiRMTest-ES: Exposing and Rectifying LiDAR Perception Failures via Multi-Physics Metamorphic Relations in Extreme Environments},
   author  = {Li, Zhendong and Yan, Shiyu},
-  <!-- journal = {},
-  year    = {},
-  note    = {} -->
 }
 ```
 
