@@ -127,8 +127,6 @@ The paper constructs a mixed retraining set using:
 
 After retraining, evaluate the models on both LiRMTest-ES scenarios and LiRTest scenarios to measure robustness and cross-scenario generalization.
 
-> Repository maintainers should add the exact environment, transformation, evaluation, and retraining commands here after confirming the current script names and configuration paths.
-
 ## Main Results
 
 ### Neuron Activation Diversity
