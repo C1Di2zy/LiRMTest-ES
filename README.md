@@ -52,18 +52,6 @@ LiRMTest-ES evaluates four representative 3D object detectors—**PointPillars, 
 
 > Several coefficients are bounded experimental parameters rather than universal LiDAR sensor constants. They are selected to preserve labels, produce monotonic severity changes, and keep transformations reproducible.
 
-## Metamorphic Testing Principle
-
-Let \(c\) be an original point cloud, \(\gamma\) an extreme-environment transformation, and \(P\) a 3D object detector. LiRMTest-ES generates a follow-up point cloud
-
-\[
-c' = \gamma(c).
-\]
-
-Because the transformation changes the sensing condition rather than the scene semantics, the ground-truth objects remain unchanged. The predictions \(P(c)\) and \(P(c')\) should therefore satisfy a predefined consistency relation. A substantial violation indicates a potential perception defect.
-
-In practice, LiRMTest-ES evaluates consistency using object-detection metrics instead of requiring exact equality between two sets of predicted boxes.
-
 ## Supported Experimental Setting
 
 ### Dataset
