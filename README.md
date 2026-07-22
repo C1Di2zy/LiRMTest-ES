@@ -8,9 +8,6 @@
   Physics-informed metamorphic testing and data augmentation for LiDAR-based 3D object detection.
 </p>
 
-<p align="center">
-  Zhendong Li · Shiyu Yan
-</p>
 
 ---
 
@@ -196,7 +193,6 @@ Please cite the project as:
 ```bibtex
 @article{li2026lirmtestes,
   title   = {LiRMTest-ES: Exposing and Rectifying LiDAR Perception Failures via Multi-Physics Metamorphic Relations in Extreme Environments},
-  author  = {Li, Zhendong and Yan, Shiyu},
 }
 ```
 
