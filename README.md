@@ -206,10 +206,6 @@ This work was supported by the Natural Science Foundation of Hunan Province (Reg
 
 The implementation builds upon the OpenPCDet framework, and the experiments use the KITTI dataset.
 
-## Contact
-
-- Zhendong Li: `20242008210530@stu.usc.edu.cn`
-- Shiyu Yan: `yanshiyu@usc.edu.cn`
 
 ---
 
